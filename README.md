@@ -1,7 +1,7 @@
 <h2 align="center">
 <strong color="green">Movix-App</strong> - Millions of movies, TV shows and people to discover</h2>
 
-<p align="center"><img src="./src/assets/screenshort/1.JPG" alt="Movix homepage"></p>
+<p align="center"><img src="./src/assets/screenShort/1.JPG" alt="Movix homepage"></p>
 
 <p>Experience the next level of entertainment with Movix, Built with React, Redux, and a plethora of advanced features, Movix offers unparalleled user-friendliness and responsiveness. Seamlessly search for any movie or TV series, filters based on genres and ratings. Discover trending and upcoming releases sorted for daily and weekly exploration. Easily explore detailed info, trailers, and related videos for every title.</p>
 
@@ -17,33 +17,33 @@
 
 - <strong>Fine-Tuned Filters</strong>: Users can easily filter their search results by genre, release date, rating, and more to find exactly what they're looking for.
 
-<h3>🚀 Live Demo</h3>
+<h3 color="green">🚀 Live Demo</h3>
 
 [https://movix-six-weld.vercel.app/](https://movix-six-weld.vercel.app/)
 
-<h5>Tending, Popular and Top Rated Movies:</h5>
+<h5 color="green">Tending, Popular and Top Rated Movies:</h5>
 
-<img src="./src/assets/screenshort/2.JPG" alt="Movix homepage">
-<img src="./src/assets/screenshort/3.JPG" alt="Movix homepage">
+<img src="./src/assets/screenShort/2.JPG" alt="Movix homepage">
+<img src="./src/assets/screenShort/3.JPG" alt="Movix homepage">
 
-<h5>Movie Details Page:</h5>
+<h5 color="green">Movie Details Page:</h5>
 
-<img src="./src/assets/screenshort/4.JPG" alt="Movix homepage">
+<img src="./src/assets/screenShort/4.JPG" alt="Movix homepage">
 
-<h5>Official Video, Similar TV shows, Recommendations:</h5>
+<h5 color="green">Official Video, Similar TV shows, Recommendations:</h5>
 
-<img src="./src/assets/screenshort/5.JPG" alt="Movix homepage">
+<img src="./src/assets/screenShort/5.JPG" alt="Movix homepage">
 
-<h5>Search Results Page:</h5>
+<h5 color="green">Search Results Page:</h5>
 
-<img src="./src/assets/screenshort/6.JPG" alt="Movix homepage">
+<img src="./src/assets/screenShort/6.JPG" alt="Movix homepage">
 
-<h5>Explore Movies & TV Shows:</h5>
+<h5 color="green">Explore Movies & TV Shows:</h5>
 
-<img src="./src/assets/screenshort/7.JPG" alt="Movix homepage">
-<img src="./src/assets/screenshort/8.JPG" alt="Movix homepage">
+<img src="./src/assets/screenShort/7.JPG" alt="Movix homepage">
+<img src="./src/assets/screenShort/8.JPG" alt="Movix homepage">
 
-<h3>🛠️ Installation Steps:</h3>
+<h3 color="green">🛠️ Installation Steps:</h3>
 
 <p>1. Clone the repository</p>
 
@@ -69,7 +69,7 @@ npm run dev
 http://localhost:5173/
 ```
 
-<h3>💻 Built with</h3>
+<h3 color="green">💻 Built with</h3>
 
 Technologies used in the project:
 
@@ -79,7 +79,7 @@ Technologies used in the project:
 - [Axios](#) - API requests to the TMDB API
 - [React Router](#) - Navigation and routing within the application
 
-<h3>🙏 Acknowledgments</h3>
+<h3 color="green">🙏 Acknowledgments</h3>
 
 In building Movix-App, we want to extend our thanks to the following tools and resources that played a huge role in making our app awesome:
 
@@ -109,10 +109,10 @@ In building Movix-App, we want to extend our thanks to the following tools and r
 
 - **Sass (`sass`):** It's what we use to style our app, making it look sleek and stylish.
 
-<h3>⚠️ Disclaimer</h3>
+<h3 color="green">⚠️ Disclaimer</h3>
 
 Movix uses the TMDB API to gather movie and TV show data. The accuracy, completeness, and availability of this data depend on TMDB's policies and may change over time. Users should refer to TMDB's API documentation and terms of use for any restrictions or guidelines regarding the data accessed through the API.
 
-<h3>💖Like my work?</h3>
+<h3 color="green">💖Like my work?</h3>
 
 If you enjoy using Movix, please show your support by leaving a star ⭐️ on the project. Thank you! Don't forget to leave a star ⭐️.
