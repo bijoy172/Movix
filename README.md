@@ -48,7 +48,7 @@
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/bijoy172/Movix-App.git
+git clone https://github.com/bijoy172/movix.git
 ```
 
 <p>2. Install the required dependencies </p>
